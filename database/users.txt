@@ -1,0 +1,5 @@
+Bugra,123,2091
+EkremAbi,bjbaronu,5000
+Mustafa,mustafa,5000
+Zaniolo,cimbom,7600
+enes,keles,6200
